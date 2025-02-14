@@ -20,7 +20,7 @@ This analysis delivers insights that drive healthcare strategy and resource allo
 ## 🔬 Data & Methodology
 
 ### **Dataset Overview**
-- **Source:** [CDC's PLACES Dataset] (https://data.cdc.gov/d/swc5-untb)
+- **Source:** [CDC's PLACES Dataset](https://data.cdc.gov/d/swc5-untb)
 - **Size:** 200,000+ records from **2021-2022**.
 - **Key Features:** Demographics, medical history, chronic condition indicators, socioeconomic factors.
 
