@@ -58,16 +58,16 @@ This analysis delivers insights that drive healthcare strategy and resource allo
 
 ## 📊 Data Visualization & Insights
 
-### **Chronic Condition Risk Clusters**
+#### **1. Chronic Condition Risk Clusters**
 - Identifies **vulnerable populations**, assisting **hospitals and policymakers in proactive resource allocation**.
 
-### **Regional Prevalence & Benchmarking**
+#### **2. Regional Prevalence & Benchmarking**
 - Compares **chronic condition rates to national standards**, informing **public health investments**.
 
-### **Geospatial Chronic Disease Mapping**
+#### **3. Geospatial Chronic Disease Mapping**
 - Provides an **interactive tool for healthcare providers** to **optimize intervention strategies**.
 
-### **Population Risk vs. Health Outcomes**
+#### **4. Population Risk vs. Health Outcomes**
 - Examines **the relationship between demographics, economic conditions, and chronic disease impact**.
 
 🔗 **[Tableau Dashboard Link](https://public.tableau.com/views/chronic-condition-analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
