@@ -100,5 +100,3 @@ This analysis delivers insights that drive healthcare strategy and resource allo
 1. Clone the repository: `git clone https://github.com/vaishj001/Chronic-Conditions-Analysis.git`
 2. Open the **Tableau workbook** to explore insights.
 3. Run **Python script** for detailed data analysis.
-
----
