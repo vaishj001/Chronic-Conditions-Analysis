@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Chronic diseases such as **diabetes, cardiovascular conditions, and mental health disorders** pose significant public health and economic challenges. Healthcare providers, insurers, and policymakers need **data-driven strategies** to allocate resources, design intervention programs, and reduce long-term costs. 
 
-This project builds a **decision-support framework** to identify **high-risk populations**, segment communities based on health risks, and predict disease prevalence. By performing **classfication, predictive modeling, and clustering**, this project enables stakeholders to shift from **reactive healthcare spending to proactive risk mitigation**.
+This project builds a **decision-support framework** to identify **high-risk populations**, segment communities based on health risks, and predict disease prevalence. By performing **classification, predictive modeling, and clustering**, this project enables stakeholders to shift from **reactive healthcare spending to proactive risk mitigation**.
 
 ---
 
@@ -13,7 +13,7 @@ This analysis delivers insights that drive healthcare strategy and resource allo
 - **Predicting Chronic Disease Prevalence** → Machine learning models to forecast **high-risk populations**.
 - **Segmentation & Risk Profiling** → Clustering techniques to categorize **population health risks**.
 - **Regional Health Disparity Analysis** → Interactive **Tableau dashboards** to highlight **geographic gaps in healthcare**.
-- **Benchmarking & Trend Comparisons** → Evaluating regional prevalence **against national standards**.
+- **Benchmarking & Trend Comparisons** → Evaluating regional prevalence **against national standards** in **Tableau**.
 
 ---
 
